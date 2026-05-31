@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or method, please cite the paper below."
+title: "FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification"
+type: software
+authors:
+  - family-names: Oh
+    given-names: YongKyung
+  - family-names: Lim
+    given-names: Dong-Young
+  - family-names: Kim
+    given-names: Sungil
+repository-code: "https://github.com/yongkyung-oh/FlowPath"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification"
+  authors:
+    - family-names: Oh
+      given-names: YongKyung
+    - family-names: Lim
+      given-names: Dong-Young
+    - family-names: Kim
+      given-names: Sungil
+  collection-title: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  collection-type: proceedings
+  conference:
+    name: "AAAI Conference on Artificial Intelligence"
+    alias: "AAAI-26"
+  volume: 40
+  issue: 29
+  start: "24594"
+  end: "24603"
+  year: 2026
+  date-published: "2026-03-14"
+  publisher:
+    name: "Association for the Advancement of Artificial Intelligence (AAAI)"
+  issn: "2374-3468"
+  doi: 10.1609/aaai.v40i29.39643
+  url: "https://ojs.aaai.org/index.php/AAAI/article/view/39643"

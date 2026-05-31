@@ -39,7 +39,7 @@ constraints that promote information-preserving and stable transformations.
 This inductive bias separates FlowPath from prior unconstrained learnable path
 models. On benchmark datasets and a real-world case study, FlowPath improves
 classification accuracy over fixed interpolants and non-invertible
-architectures, underscoring the value of modeling both the dynamics along the
+architectures, showing the value of modeling both the dynamics along the
 path and the geometry of the path itself.
 
 ## Method

@@ -19,8 +19,9 @@ differential equations (Neural CDEs). Instead of a fixed interpolation, it
 uses invertible neural flows to learn a continuous, data-driven manifold for
 robust irregular time series classification, even under heavy missingness.
 
-**Keywords:** neural controlled differential equations · invertible neural
-flows · irregular time series classification · learnable control path
+**Keywords:** Machine Learning: ML: Time-Series/Data Streams, Machine Learning:
+ML: Deep Learning Algorithms, Machine Learning: ML: Representation Learning,
+Machine Learning: ML: Learning with Manifolds
 
 ## Overview
 
@@ -71,6 +72,15 @@ If you use this software or method, please cite the published AAAI paper:
   year    = {2026},
   doi     = {10.1609/aaai.v40i29.39643},
   url     = {https://ojs.aaai.org/index.php/AAAI/article/view/39643}
+}
+
+@misc{oh2025flowpath_arxiv,
+  title     = {FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification},
+  author    = {Oh, YongKyung and Lim, Dong-Young and Kim, Sungil},
+  year      = {2025},
+  publisher = {arXiv},
+  doi       = {10.48550/arXiv.2511.10841},
+  url       = {https://arxiv.org/abs/2511.10841}
 }
 ```
 

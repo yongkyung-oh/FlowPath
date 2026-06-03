@@ -62,7 +62,7 @@ FlowPath extends Neural Differential Equation frameworks through:
 If you use this software or method, please cite the published AAAI paper:
 
 ```bibtex
-@article{oh2026flowpath,
+@article{oh_flowpath_2026,
   title   = {FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification},
   author  = {Oh, YongKyung and Lim, Dong-Young and Kim, Sungil},
   journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
@@ -73,8 +73,10 @@ If you use this software or method, please cite the published AAAI paper:
   doi     = {10.1609/aaai.v40i29.39643},
   url     = {https://ojs.aaai.org/index.php/AAAI/article/view/39643}
 }
+```
 
-@misc{oh2025flowpath_arxiv,
+```bibtex
+@misc{oh_flowpath_2025,
   title     = {FlowPath: Learning Data-Driven Manifolds with Invertible Flows for Robust Irregularly-sampled Time Series Classification},
   author    = {Oh, YongKyung and Lim, Dong-Young and Kim, Sungil},
   year      = {2025},

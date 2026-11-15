@@ -5,7 +5,7 @@ if wandb:
     import wandb
     os.environ['WANDB_SILENT']="true"
 
-    wandb.login(key=str('REMOVED'))
+    wandb.login()
     config = wandb.config
     run = wandb.init(project='Raindrop', entity='XZ', config={'wandb_nb':'wandb_three_in_one_hm'})
 

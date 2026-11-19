@@ -57,6 +57,8 @@ FlowPath extends Neural Differential Equation frameworks through:
 * `torch-ists/`: utilities and differential-equation models for irregular TS.
 * `PAMAP2/`: human activity recognition and the sensor-drop experiment.
 
+For the original PAMAP2 preprocessing and baseline implementations, see [Raindrop](https://github.com/mims-harvard/Raindrop).
+
 ## Citation
 
 If you use this software or method, please cite the published AAAI paper:
